@@ -1,0 +1,19 @@
+Liczba klientów (w jednej jednostce czasu):4
+Liczba okienek:6
+Czas trwania symulacji(s):200
+Maksymalny czas obsługi(s):5
+Częstotliwość odświeżania(s):1
+#
+0 ososv:0
+1 osoba:10
+2 osoby:10
+3 osoby:50
+4 osoby:30
+$
+1 sekunda:10
+2 sekundy:10
+3 sekunda:20
+4 sekundy:30
+5 sekunda:30
+
+
